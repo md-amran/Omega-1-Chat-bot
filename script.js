@@ -9,7 +9,7 @@ const sidebar = document.getElementById('sidebar');
 const sidebarOverlay = document.getElementById('sidebarOverlay');
 
 // ===== Configuration =====
-const N8N_WEBHOOK_URL = 'https://mdamran914.app.n8n.cloud/webhook/Omega1';
+const N8N_WEBHOOK_URL = 'https://kioju9ijfa.app.n8n.cloud/webhook/Omega1';
 const TEST_MODE = false;
 
 // ===== Auto-resize Textarea =====
